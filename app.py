@@ -6,17 +6,12 @@ import openai
 import torch
 from PIL import Image
 import openai
-from dotenv import load_dotenv
-import os
 import yaml
 from data_processor import get_characters
 
 with open('config.yml', 'r') as file:
     vars = yaml.safe_load(file)
 
-
-def confiqure():
-    load_dotenv()
 
 def classify_image(image_path):
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -48,7 +43,7 @@ def classify_image(image_path):
 
 def style_dialouge(character, dialouge):
 
-    openai.api_key = os.getenv('api_key')
+    openai.api_key = st.secrets["api_key"]
 
 
   
@@ -73,7 +68,6 @@ def style_dialouge(character, dialouge):
     return result
 
 def main():
-    confiqure()
     st.set_page_config(page_title="Character Dialogue Styler", page_icon=":smiley:")
 
     # Add custom CSS styles
