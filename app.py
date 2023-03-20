@@ -59,7 +59,7 @@ def classify_image(image_path):
 
 def style_dialouge(character, emotion, dialouge):
 
-    openai.api_key = vars['api_key']
+    openai.api_key = st.secrets["api_key"]
 
 
   
