@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/StyleMyDialouge.png" alt="model">
+    <img src="images/StyleMyDialouge.jpg" alt="model">
   </a>
 
   <h3 align="center">Style My Dialougue</h3>
@@ -24,19 +24,6 @@ Contributions are:
 * Automatic naration and storytelling: This app can be used as a tool to help writers and storytellers generate new ideas and dialogue for their stories, and to explore different character personalities and styles.
 * Showcasing the power of AI in dailouge generationg and stylization: This app demonstrates the capabilities of cutting-edge natural language processing and computer vision models to generate context-aware and creative dailouges.
 * Providing a fun and interactive way for users to experiment with these models: By allowing users to upload their own images and enter their own dialogues, this app enables users to play with the models and see their outputs in real-time.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![PyTroch][pytorch.org]][PyTroch-url]
-* [![CLIP][openai.com/research/clip]][CLIP-url]
-* [![ChatGPT3][openai.com/blog/chatgpt]][chatgpt-url]
-* [![Streamlit][streamlit.io]][streamlit-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -62,8 +49,6 @@ Guide for installing the program and its dependencies.
    ```yml
    api_key: "Write chatgpt api here"
    ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- USAGE -->
@@ -107,4 +92,3 @@ Enter your own emotions in `config.yml`
  emotions: "emotion list or dataset"
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
