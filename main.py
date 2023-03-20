@@ -1,5 +1,5 @@
 from StyleMyDialogue import StyleMyDialogue
-from data_processor import get_characters, get_dialouges, get_images
+from data_processor import get_characters, get_dialouges, get_images, get_emotions
 import yaml
 import csv
 from dotenv import load_dotenv
@@ -15,10 +15,10 @@ def main():
     with open('config.yml', 'r') as file:
         vars = yaml.safe_load(file)
 
-    model = StyleMyDialogue(get_characters(),os.getenv('api_key'))
-    chars = model.character_similarities(get_images())
+    model = StyleMyDialogue(get_characters(), get_emotions(), os.getenv('api_key'))
+    chars,emotions = model.similarities(get_images())
     dialogues = get_dialouges()
-    results = model.generate_prompts(chars,dialogues)
+    results = model.generate_prompts(chars,emotions,dialogues)
     results['generic dialogue'] = dialogues
     print(results)
 

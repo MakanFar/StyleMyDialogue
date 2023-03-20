@@ -7,7 +7,7 @@ import torch
 from PIL import Image
 import openai
 import yaml
-from data_processor import get_characters
+from data_processor import get_characters, get_emotions
 
 with open('config.yml', 'r') as file:
     vars = yaml.safe_load(file)
@@ -20,6 +20,7 @@ def classify_image(image_path):
     model.eval()
     
     characters = get_characters()
+    emotions = get_emotions()
 
     image = Image.open(image_path).convert("RGB")
     st.image(image, caption="Uploaded Image", use_column_width=True)
@@ -27,36 +28,47 @@ def classify_image(image_path):
     images=[]
     images.append(image)
     image_input = torch.tensor(np.stack(images)).to(device)
-    text_tokens = clip.tokenize(["This is " + ch for ch in characters]).to(device)
+    char_tokens = clip.tokenize(["This is a" + ch for ch in characters]).to(device)
+    emotion_tokens = clip.tokenize(["This character is" + em for em in emotions]).to(device)
+
     with torch.no_grad():
         image_features = model.encode_image(image_input).float()
-        text_features = model.encode_text(text_tokens).float()
+        char_features = model.encode_text(char_tokens).float()
+        emotion_features = model.encode_text(emotion_tokens).float()
+
+
     image_features /= image_features.norm(dim=-1, keepdim=True)
-    text_features /= text_features.norm(dim=-1, keepdim=True)
-    similarity = text_features.cpu().numpy() @ image_features.cpu().numpy().T
-    predictions = torch.topk(torch.tensor(similarity), 1, dim=0)[1][0]
-    predictions = predictions.numpy()
-    for i in predictions:
+    char_features /= char_features.norm(dim=-1, keepdim=True)
+    emotion_features /= emotion_features.norm(dim=-1, keepdim=True)
+
+    char_similarity = char_features.cpu().numpy() @ image_features.cpu().numpy().T
+    emotion_similarity = emotion_features.cpu().numpy() @ image_features.cpu().numpy().T
+
+    char_predictions = torch.topk(torch.tensor(char_similarity), 1, dim=0)[1][0]
+    char_predictions = char_predictions.numpy()
+
+    emotion_predictions = torch.topk(torch.tensor(emotion_similarity), 1, dim=0)[1][0]
+    emotion_predictions = emotion_predictions.numpy()
+
+    for i,j in zip(char_predictions,emotion_predictions):
         character = characters[i]
-    return character
+        emotion = emotions[j]
+
+    return character, emotion
 
 
-def style_dialouge(character, dialouge):
+def style_dialouge(character, emotion, dialouge):
 
-    openai.api_key = st.secrets["api_key"]
+    openai.api_key = vars['api_key']
 
 
   
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=[
-                {
-                "role": "system",
-                "content": "Pretend to be a {}.".format(character)
-                },
-                {
+                 {
                     "role": "user",
-                    "content": "Keep in mind that the maximum length is 20 words. Now, say this pharase: {}".format(dialouge)
+                    "content": "Keep in mind that maximum length is 20 words, rewrite the following dialogue in the style of a {} {}: Original Dialogue: {} Rewritten Dialogue:".format(emotion,character,dialouge)
                 }
             ])
         
@@ -97,8 +109,8 @@ def main():
 
     # Display stylized output
     if image_file and prompt:
-        image_features = classify_image(image_file)
-        dialogue = style_dialouge(image_features, prompt)
+        character, emotion = classify_image(image_file)
+        dialogue = style_dialouge(character, emotion, prompt)
         st.write("Here's the stylized dialogue:")
         st.write(dialogue)
 

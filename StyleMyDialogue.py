@@ -13,13 +13,14 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 
 class StyleMyDialogue:
 
-    def __init__(self, characters, chatgpt_key):
+    def __init__(self, characters, emotions, chatgpt_key):
 
         self.chatgpt_key = chatgpt_key
         self.characters= characters
+        self.emotions= emotions
 
         
-    def character_similarities(self, img_path):
+    def similarities(self, img_path):
         model, preprocess = clip.load("ViT-B/32")
         model.to(device).eval()
 
@@ -30,58 +31,54 @@ class StyleMyDialogue:
             images.append(preprocess(image))
 
         image_input = torch.tensor(np.stack(images)).to(device)
-        text_tokens = clip.tokenize(["This is " + ch for ch in self.characters]).to(device)
+        char_tokens = clip.tokenize(["This is a" + ch for ch in self.characters]).to(device)
+        emotion_tokens = clip.tokenize(["This character is" + em for em in self.emotions]).to(device)
 
         with torch.no_grad():
             image_features = model.encode_image(image_input).float()
-            text_features = model.encode_text(text_tokens).float()
+            char_features = model.encode_text(char_tokens).float()
+            emotion_features = model.encode_text(emotion_tokens).float()
 
         image_features /= image_features.norm(dim=-1, keepdim=True)
-        text_features /= text_features.norm(dim=-1, keepdim=True)
+        char_features /= char_features.norm(dim=-1, keepdim=True)
+        emotion_features /= emotion_features.norm(dim=-1, keepdim=True)
 
-        return text_features.cpu().numpy() @ image_features.cpu().numpy().T
+        char_similarity = char_features.cpu().numpy() @ image_features.cpu().numpy().T
+        emotion_similarity = emotion_features.cpu().numpy() @ image_features.cpu().numpy().T
+        return char_similarity,emotion_similarity
 
         
-    def generate_prompts(self, similarities, dialogues):
+    def generate_prompts(self, char, emotion, dialogues):
 
         openai.api_key = self.chatgpt_key
 
-        predictions = torch.topk(torch.tensor(similarities), 1, dim=0)[1][0]
-        predictions = predictions.numpy()
-        pred_characters = [self.characters[i] for i in predictions]
+        char_predictions = torch.topk(torch.tensor(char), 1, dim=0)[1][0]
+        char_predictions = char_predictions.numpy()
+        pred_characters = [self.characters[i] for i in char_predictions]
         print(pred_characters)
 
-        ch_list = []
-        dialogue_list=[]
+        emotion_predictions = torch.topk(torch.tensor(emotion), 1, dim=0)[1][0]
+        emotion_predictions = emotion_predictions.numpy()
+        pred_emotions = [self.emotions[i] for i in emotion_predictions]
+        print(pred_emotions)
 
-        for ch in pred_characters: 
-            prompt = "Pretend to be a {}.".format(ch)
-            ch_list.append(prompt)
-
-        for dai in dialogues:
-            dialogue = "Say this pharase: {}".format(dai)
-            dialogue_list.append(dialogue)
-
-
+   
         results_dict= {}
         
 
-        for character  in pred_characters: 
+        for character, emotion  in zip (pred_characters,pred_emotions): 
             character_dais = []
             for dai in dialogues:
 
                 response = openai.ChatCompletion.create(
                     model="gpt-3.5-turbo",
                     messages=[
-                            {
-                            "role": "system",
-                            "content": "Pretend to be a {}.".format(character)
-                            },
+                      
                             {
                                 "role": "user",
-                                "content": "Keep in mind that the maximum length is 20 words. Now, say this pharase: {}".format(dai)
+                                "content": "Keep in mind that maximum length is 20 words, rewrite the following dialogue in the style of a {} {}: Original Dialogue: {} Rewritten Dialogue:".format(emotion,character,dai)
                             }
-                        ]
+                        ] 
                     )
 
                 result = ''
@@ -89,6 +86,6 @@ class StyleMyDialogue:
                     result += choice.message.content
                 character_dais.append(result)
             
-            results_dict[character]=character_dais
+            results_dict[emotion+" "+character]=character_dais
 
         return results_dict

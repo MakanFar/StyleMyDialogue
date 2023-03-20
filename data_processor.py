@@ -35,6 +35,21 @@ def get_characters():
 
     return characters
 
+
+def get_emotions():
+
+    csv_file = open(vars['emotions'])
+    csv_reader = csv.DictReader(csv_file)
+
+    emotions = []
+
+    for row in csv_reader:
+        emotion = row['Emotion']
+        emotions.append(emotion)
+
+    return emotions
+
+
 def get_images():
 
     csv_file = open(vars['images'])
