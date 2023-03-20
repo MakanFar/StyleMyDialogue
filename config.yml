@@ -1,6 +1,6 @@
 api_key: "Write chatgpt api here"
 characters: "data/characters.csv"
-dialogues: ["Sorry you can't enter, you should wait in the line", "What is that noise? hmm, maybe it was just my imagination"]
+dialogues: "data/dialogues_text.txt"
 images: "data/images.csv"
 emotions: "data/emotions.csv"
 
