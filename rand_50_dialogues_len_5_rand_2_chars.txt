@@ -1,0 +1,1249 @@
+======================================== Original Dialg 1054 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Good morning , is there anything I can do for you ?
+> ( 1) [[ 1 ]]
+>>>>> Can you enlarge the picture ?
+> ( 2) [[ 0 ]]
+>>>>> Yes , what size do you want ?
+> ( 3) [[ 1 ]]
+>>>>> I want it enlarged to 5 inches .
+> ( 4) [[ 0 ]]
+>>>>> No problem . Come and get your picture on Friday .
+======================================== Stylized Dialg 1054 ========================================
+> ( 0) Mr. Bean
+>>>>> Good day, how could I be of assistance to you?
+> ( 1) Monk
+>>>>> Would it be possible to magnify the image, my friend?
+> ( 2) Mr. Bean
+>>>>> "Mmmh, yes. What size would you prefer, then?"
+> ( 3) Monk
+>>>>> I request that it be expanded to a size of five inches.
+> ( 4) Mr. Bean
+>>>>> "Absolutely splendid! Swing by and we'll capture your likeness come Friday."
+====================================================================================================
+
+
+======================================== Original Dialg 6717 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Mary , I have something to tell you .
+> ( 1) [[ 1 ]]
+>>>>> Go ahead .
+> ( 2) [[ 0 ]]
+>>>>> I ’ m afraid you ’ ll become angry . But I think I must tell you .
+> ( 3) [[ 1 ]]
+>>>>> Come on . Don ’ t hesitate .
+> ( 4) [[ 0 ]]
+>>>>> John made out with other girls at the party yesterday .
+======================================== Stylized Dialg 6717 ========================================
+> ( 0) Napoleon Bonaparte
+>>>>> "Madame Mary, there is a matter of importance that I must make known to you."
+> ( 1) Pirate
+>>>>> "Aye, go ahead if ye think ye have the guile to pull it off."
+> ( 2) Napoleon Bonaparte
+>>>>> My apologies, but I believe it is imperative to bring to your attention that I fear your reaction to what I must say.
+> ( 3) Pirate
+>>>>> Avast ye scallywags, don't ye be dallying now! We need to move post-haste!
+> ( 4) Napoleon Bonaparte
+>>>>> John was observed kissing several ladies at the party yesterday.
+====================================================================================================
+
+
+======================================== Original Dialg 11602 ========================================
+> ( 0) [[ 0 ]]
+>>>>> That's right . Once the contract with Stars.com is final , we'll deal with Zina .
+> ( 1) [[ 1 ]]
+>>>>> I can't wait to see the expression on her face when we dump her .
+> ( 2) [[ 0 ]]
+>>>>> Don't jump the gun . She's in the driver's seat right now . You have to be patient .
+> ( 3) [[ 1 ]]
+>>>>> Don't worry . I'm patient , but vengeance will be mine .
+> ( 4) [[ 0 ]]
+>>>>> Settle down , Elvin . If you're not careful , you'll give our plan away . Zina's smart , you know .
+======================================== Stylized Dialg 11602 ========================================
+> ( 0) Pirate
+>>>>> "Aye, that be true as the north star. Once we ink the contract with Stars.com, we'll handle Zina proper."
+> ( 1) Django
+>>>>> I can't wait to see the look on her mug when we leave her behind.
+> ( 2) Pirate
+>>>>> Arrr, hold yer horses matey! The lass be at the helm now. Ye'll need to have some patience.
+> ( 3) Django
+>>>>> "Don't you fret now. I'm a patient man, but revenge will be served on a silver platter, mark my words."
+> ( 4) Pirate
+>>>>> Avast, Elvin! Take a breather, matey. Ye wouldn't want to be blabbering about our plan to Zina, she be crafty, savvy?
+====================================================================================================
+
+
+======================================== Original Dialg 12020 ========================================
+> ( 0) [[ 0 ]]
+>>>>> How come it is slow as a snail today ?
+> ( 1) [[ 1 ]]
+>>>>> You mean the network connection ?
+> ( 2) [[ 0 ]]
+>>>>> Yes , I wanted to look for some information on the company page just now . It took me almost one minute to open it . Then there is no response to any click .
+> ( 3) [[ 1 ]]
+>>>>> I have the same question . I can ’ t send out mails . We ’ d better call the IT department and ask them to check it immediately .
+> ( 4) [[ 0 ]]
+>>>>> Ok .
+======================================== Stylized Dialg 12020 ========================================
+> ( 0) Napoleon Bonaparte
+>>>>> Why is the pace of this day as sluggish as a snail's crawl?
+> ( 1) Viking
+>>>>> Ye mean the network connection?
+> ( 2) Napoleon Bonaparte
+>>>>> Indeed, I was attempting to peruse the company's page moments ago. Alas, it required nearly a full minute to load. And yet, even after the wait, the page did not respond to any of my clicks. Quite vexing, I must say.
+> ( 3) Viking
+>>>>> By Odin's beard, I share thy query! My missives will not leave my hand. We must summon the IT warriors and beseech them to address this with haste.
+> ( 4) Napoleon Bonaparte
+>>>>> As Emperor, I permit it.
+====================================================================================================
+
+
+======================================== Original Dialg 7336 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Which school is your children in ?
+> ( 1) [[ 1 ]]
+>>>>> She is now in a private school .
+> ( 2) [[ 0 ]]
+>>>>> Oh , it costs too much . It's more expensive than the public school .
+> ( 3) [[ 1 ]]
+>>>>> It's idea of my husband . He is always banging the drum for better schools .
+> ( 4) [[ 0 ]]
+>>>>> But the private school amount to better schools .
+======================================== Stylized Dialg 7336 ========================================
+> ( 0) Vampire
+>>>>> "Pray tell, in which institution do thy offspring acquire knowledge?"
+> ( 1) Mr. Bean
+>>>>> "She's gone to a fancy school, all tucked away and exclusive-like."
+> ( 2) Vampire
+>>>>> Oh, the price of this is absurd. It's pricier than a public school!
+> ( 3) Mr. Bean
+>>>>> It's the idea of my teddy bear. He is always banging his spoon for better classes.
+> ( 4) Vampire
+>>>>> "The prestigious academies yield superior education,"
+====================================================================================================
+
+
+======================================== Original Dialg 6317 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Where are you from , Laura ?
+> ( 1) [[ 1 ]]
+>>>>> Well , my whole family is in the United States now , but we're from Costa Rica originally .
+> ( 2) [[ 0 ]]
+>>>>> Oh , so you're from South America .
+> ( 3) [[ 1 ]]
+>>>>> Actually , Costa Rica isn't in South America . It's in Central America .
+> ( 4) [[ 0 ]]
+>>>>> Oh , right . My geography isn't very good !
+======================================== Stylized Dialg 6317 ========================================
+> ( 0) Mr. Bean
+>>>>> Excuse me, Laura, may I inquire as to your place of origin?
+> ( 1) Pirate
+>>>>> Arr, me entire kin be in the States now, but we hail from Costa Rica by birth.
+> ( 2) Mr. Bean
+>>>>> Excuse me, I detect a faint whiff of South American flavor on your accent. Am I correct in my assumption, my good sir/madam?
+> ( 3) Pirate
+>>>>> "Nah, ye lubber, ye got it all wrong. Costa Rica ain't in South America, it be in Central America."
+> ( 4) Mr. Bean
+>>>>> Oh, dear me! I'm afraid my geography skills are rather lacking, aren't they?
+====================================================================================================
+
+
+======================================== Original Dialg 11407 ========================================
+> ( 0) [[ 0 ]]
+>>>>> How are you , Mr . Stone ? I m Farley .
+> ( 1) [[ 1 ]]
+>>>>> Pleased to meet you , Mr . Farley .
+> ( 2) [[ 0 ]]
+>>>>> Please have a seat . I know our employment officer has already given you information about your employee contract , but I'd like to go over the main details again before signing . First , you'llbe getting a monthly salary , with one month paid vacation after one year of employment .
+> ( 3) [[ 1 ]]
+>>>>> OK May I ask whether there is probation ?
+> ( 4) [[ 0 ]]
+>>>>> No probation is involved .
+======================================== Stylized Dialg 11407 ========================================
+> ( 0) Pirate
+>>>>> "Ahoy there, matey! How be ye, Mr. Stone? I be Farley."
+> ( 1) Vampire
+>>>>> "Pleased to make your acquaintance, Mr. Farley,"
+> ( 2) Pirate
+>>>>> Sail on in, matey! I know our adviser already talked to ya about yer work deal, but I reckon we should go over the important bits before we put ink to parchment. Ye'll be getting a cut each month, with a chill pill of a month's holiday after yer first year aboard.
+> ( 3) Vampire
+>>>>> "May I inquire if there's probation in place?" The vampire spoke with a calculated tone.
+> ( 4) Pirate
+>>>>> There's no parole to be had, matey.
+====================================================================================================
+
+
+======================================== Original Dialg 1962 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Honey , could you help me here a minute ?
+> ( 1) [[ 1 ]]
+>>>>> Sure , sweetie.What are you doing ?
+> ( 2) [[ 0 ]]
+>>>>> I want to put this curtain up .
+> ( 3) [[ 1 ]]
+>>>>> OK.Why don't you just hold the ladder , and I'll put it up .
+> ( 4) [[ 0 ]]
+>>>>> Thanks , dear .
+======================================== Stylized Dialg 1962 ========================================
+> ( 0) Viking
+>>>>> Wench, lend me thy arm for a moment!
+> ( 1) Vampire
+>>>>> "Of course, darling. Pray, what art thou doing?"
+> ( 2) Viking
+>>>>> "I shall hang this tapestry with pride!"
+> ( 3) Vampire
+>>>>> Alright. Would you be so kind as to grip the ladder, and I shall hoist it forthwith.
+> ( 4) Viking
+>>>>> Takk, kjære.
+====================================================================================================
+
+
+======================================== Original Dialg 11948 ========================================
+> ( 0) [[ 0 ]]
+>>>>> With tomorrow being Labor Day and all , I think it would be a nice gesture to let all the members of laboring staff leave work an hour early . What do you say ?
+> ( 1) [[ 1 ]]
+>>>>> What ! That sounds perfectly ridiculous ! Labour Day is a holiday for everyone , not just laboring staff ... and we get a whole day off tomorrow anyway , so what's the point of an extra hour tonight ?
+> ( 2) [[ 0 ]]
+>>>>> Well , we all get Labour Day off as a holiday , the real purpose of the holiday is to remember all the people who do manual or other hard labor . It's to celebrate those who work doing what other people might not be willing to do . I think we ought to do something in honor of the common worker .
+> ( 3) [[ 1 ]]
+>>>>> So if we did allow the laboring force to go home early , how many people are we talking about ?
+> ( 4) [[ 0 ]]
+>>>>> In our company , the loborial force makes up 60 % of our workers . We'd just be letting slightly over half the folks out a little early .
+======================================== Stylized Dialg 11948 ========================================
+> ( 0) Pirate
+>>>>> "Arrrr, me hearties! With tomorrrow bein' Labor Day and all, how 'bout we show some kindness to our hardworkin' staff and let 'em leave an hour early? Yarrr, let's give 'em a break, eh?"
+> ( 1) A farmer in Idaho
+>>>>> Farmer: Hold yer horses now, that don't make no sense! Labour Day's a darn holiday for all folk, not just who's workin' hard...plus, we already got a whole day to ourselves 'morrow, so what's the fuss 'bout an extra hour tonight?
+> ( 2) Pirate
+>>>>> Arr, me hearties! We get a whole day to ourselves on Labor Day, but the true purpose of the holiday be to remember all the salty dogs who put in hard work. It be a time to celebrate those who do the dirty work that others won't touch. I say we hoist the Jolly Roger and do something in honor of the common sailor!
+> ( 3) A farmer in Idaho
+>>>>> "Well, if we did let the workers go home early, how many folks are we lookin' at here?"
+> ( 4) Pirate
+>>>>> "Aye, in our crew, the hands that do the heavy liftin' make up 60 % of our crew. We be givin' slightly more than half o' them a head start on the grog."
+====================================================================================================
+
+
+======================================== Original Dialg 4475 ========================================
+> ( 0) [[ 0 ]]
+>>>>> What happen , John ?
+> ( 1) [[ 1 ]]
+>>>>> Nothing .
+> ( 2) [[ 0 ]]
+>>>>> Why do you look unhappy ?
+> ( 3) [[ 1 ]]
+>>>>> I ’ m rather disappointed at not being able to see my best friend off .
+> ( 4) [[ 0 ]]
+>>>>> Oh , cheer up . He ’ ll understand you .
+======================================== Stylized Dialg 4475 ========================================
+> ( 0) Mr. Bean
+>>>>> What's the matter, John?
+> ( 1) A farmer in Idaho
+>>>>> Well, shoot. Ain't got nothin' to report at the moment.
+> ( 2) Mr. Bean
+>>>>> "Oy, mate! Wots with the glum mug?"
+> ( 3) A farmer in Idaho
+>>>>> It's mighty disheartening not being able to bid farewell to my closest pal.
+> ( 4) Mr. Bean
+>>>>> Don't worry, old chap. He'll catch your drift eventually.
+====================================================================================================
+
+
+======================================== Original Dialg 8205 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Excuse me , are you Sara Wilson ?
+> ( 1) [[ 1 ]]
+>>>>> Yes , I am.You must be Tom.Nice to meet you .
+> ( 2) [[ 0 ]]
+>>>>> Nice to meet you too.Let me help you with your bags .
+> ( 3) [[ 1 ]]
+>>>>> Be careful , Tom.Those are pretty heavy .
+> ( 4) [[ 0 ]]
+>>>>> Wow , you're not kidding.Hold on a second.Hello , could you give us a hand , please ?
+======================================== Stylized Dialg 8205 ========================================
+> ( 0) Snoop Dogg
+>>>>> Yo, sup? You Sara Wilson, right?
+> ( 1) A farmer in Idaho
+>>>>> "Yup, that'd be me alright. You must be Tom. Real nice meetin' ya."
+> ( 2) Snoop Dogg
+>>>>> Yo, what's good? Glad to finally make your acquaintance. Let me hook you up with carrying them bags, no worries.
+> ( 3) A farmer in Idaho
+>>>>> "Watch yourself there, Tom. Them things are mighty hefty."
+> ( 4) Snoop Dogg
+>>>>> Yo, fo' real? Hold up, lemme holler atchu. Ay yo, can you lend a brotha a hand real quick?
+====================================================================================================
+
+
+======================================== Original Dialg 2904 ========================================
+> ( 0) [[ 0 ]]
+>>>>> So am I on the right road to Piccadilly Circus ?
+> ( 1) [[ 1 ]]
+>>>>> I think so , ‘ cause I remember the policeman told me this is the very way .
+> ( 2) [[ 0 ]]
+>>>>> What did he say ?
+> ( 3) [[ 1 ]]
+>>>>> Just head straight up the street about two blocks and then turn left .
+> ( 4) [[ 0 ]]
+>>>>> That ’ s it . I think we ’ re one block beyond .
+======================================== Stylized Dialg 2904 ========================================
+> ( 0) A farmer in Idaho
+>>>>> "Well shoot, am I headin' down the correct path to get to Piccadilly Circus?"
+> ( 1) Django
+>>>>> I reckon that's the truth, 'cause that copper made it clear as day to me.
+> ( 2) A farmer in Idaho
+>>>>> Farmer: Huh? What'd he say?
+> ( 3) Django
+>>>>> "You just keep ridin' straight up the road 'bout two blocks, then hang a left."
+> ( 4) A farmer in Idaho
+>>>>> I reckon we done gone past it.
+====================================================================================================
+
+
+======================================== Original Dialg 2289 ========================================
+> ( 0) [[ 0 ]]
+>>>>> I ’ m sorry , dad . But you can ’ t do that . It ’ s for me to decide .
+> ( 1) [[ 1 ]]
+>>>>> Oh , I see . You ’ Ve already decided , have you ? Now , you listen to me , you ’ re only 19 .
+> ( 2) [[ 0 ]]
+>>>>> I didn ’ t say I ’ d already decided , dad . I said it was for me to decide . There is a difference .
+> ( 3) [[ 1 ]]
+>>>>> Oh . So you think you can just do whatever you want , do you ?
+> ( 4) [[ 0 ]]
+>>>>> I didn ’ t say that either . I was hoping we could discuss the matter together . I want your advice but I don ’ t want you to tell me what to do . I ’ Ve got to make decisions for myself , dad .
+======================================== Stylized Dialg 2289 ========================================
+> ( 0) A farmer in Idaho
+>>>>> I hate to say it, Pa, but that decision's mine to make.
+> ( 1) Viking
+>>>>> Aye, I suss you've made yer mind up, eh? But heed my words, lad. Ye may only be 19 winters old.
+> ( 2) A farmer in Idaho
+>>>>> "I ain't said I made up my mind, pa. I reckon it's up to me to decide. Ain't that a different thing altogether now?"
+> ( 3) Viking
+>>>>> Ha! You think you can just go and make all the decisions, do ye?
+> ( 4) A farmer in Idaho
+>>>>> "I ain't sayin' that, Pa. I reckon we can talk 'bout this t'gether. I'm lookin' fer yer advice, but I ain't lookin' fer ya to boss me 'round. Gotta make mah own decisions, y'know."
+====================================================================================================
+
+
+======================================== Original Dialg 9438 ========================================
+> ( 0) [[ 0 ]]
+>>>>> I want to rent skis and boots .
+> ( 1) [[ 1 ]]
+>>>>> Here you are . Have a nice stay here .
+> ( 2) [[ 0 ]]
+>>>>> Thank you . I am a learner so can you tell me where I can find a ski instructor ?
+> ( 3) [[ 1 ]]
+>>>>> We will find you one . Wait a moment .
+> ( 4) [[ 0 ]]
+>>>>> Thank you very much .
+======================================== Stylized Dialg 9438 ========================================
+> ( 0) Snoop Dogg
+>>>>> Ayo, I need to get on the slopes, you dig? Can I rent some skis and boots up in here?
+> ( 1) Viking
+>>>>> Hear ye, stranger! May ye be welcome in these halls.
+> ( 2) Snoop Dogg
+>>>>> Yo, thanks dawg. I'm tryin' to hit the slopes. Can you point me in the direction of a ski instructor?
+> ( 3) Viking
+>>>>> We'll find yer one, just give us a moment.
+> ( 4) Snoop Dogg
+>>>>> Much love and respect, homie. Thank you so much.
+====================================================================================================
+
+
+======================================== Original Dialg 6887 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Did you go to the concert last weekend ?
+> ( 1) [[ 1 ]]
+>>>>> No , I didn't . And you ? Was it good ?
+> ( 2) [[ 0 ]]
+>>>>> Yes , I did . I enjoyed it a lot.There was a folk singer , a violinist and a pianist .
+> ( 3) [[ 1 ]]
+>>>>> How much was the ticket ?
+> ( 4) [[ 0 ]]
+>>>>> I only paid two dollars for mine .
+======================================== Stylized Dialg 6887 ========================================
+> ( 0) Viking
+>>>>> Did ye attend the bard's gathering the last moonrise?
+> ( 1) A farmer in Idaho
+>>>>> "Naw, I didn't catch it. How 'bout you? Was it tasty?"
+> ( 2) Viking
+>>>>> Aye, I did. 'Twas a grand time. We had a skilled folk singer, a fiddler, and a master of the keys.
+> ( 3) A farmer in Idaho
+>>>>> "How much did them durn tickets cost?" asked the farmer in Idaho.
+> ( 4) Viking
+>>>>> I only gave two measly coins for mine!
+====================================================================================================
+
+
+======================================== Original Dialg 634 ========================================
+> ( 0) [[ 0 ]]
+>>>>> There are many new kinds of newspapers . I find it hard to choose among them . Which is the most popular paper circulating in our city ?
+> ( 1) [[ 1 ]]
+>>>>> I'd recommend you the Morning Paper , it is true that the paper is a newly issued one , but its circulation is rising . Last month , it reached to three hundred thousand , which is a very good figure for a new paper .
+> ( 2) [[ 0 ]]
+>>>>> What's the reason that people prefer to read this one ?
+> ( 3) [[ 1 ]]
+>>>>> I think perhaps the news stories in it are truthful and accurate . It also has a special page about the stock market ; maybe this is the real reason for its popularity . Many people are now speculating in the stock market .
+> ( 4) [[ 0 ]]
+>>>>> I can predict it will have the largest circulation in one or two years .
+======================================== Stylized Dialg 634 ========================================
+> ( 0) Snoop Dogg
+>>>>> Yo, there's all these new newspapers out there, straight up overwhelming. I'm tryna figure out which one's the hottest in our city, ya feel me? What's poppin' on the streets, homie?
+> ( 1) Cowboy
+>>>>> Well shucks, partner, if you're lookin' for a read, I'd point ya towards the Morning Paper. Sure, it's fresh off the press, but it's gainin' traction. Last month it hit three hundred thousand readers, which ain't too shabby for a new publication.
+> ( 2) Snoop Dogg
+>>>>> Yo, what's the deal with people being all up on this one? What makes it so special?
+> ( 3) Cowboy
+>>>>> Well gosh darn it, I reckon them news stories in there are the real deal. And that special page about the stock market? That's why everyone's getting all riled up about it. Seems like folks are hankering to jump into the stock market these days.
+> ( 4) Snoop Dogg
+>>>>> Fo' sho', I'm seein' this joint havin' the biggest circulation in like one or two years, ya dig?
+====================================================================================================
+
+
+======================================== Original Dialg 5403 ========================================
+> ( 0) [[ 0 ]]
+>>>>> My friend Jean is very beautiful .
+> ( 1) [[ 1 ]]
+>>>>> What's her figure ?
+> ( 2) [[ 0 ]]
+>>>>> Perfect , and I like her charming eyes too .
+> ( 3) [[ 1 ]]
+>>>>> What's the color of her eyes ?
+> ( 4) [[ 0 ]]
+>>>>> Dark blue .
+======================================== Stylized Dialg 5403 ========================================
+> ( 0) Viking
+>>>>> My friend Jean, she beeth a comely maiden, fairer than the dawn.
+> ( 1) Snoop Dogg
+>>>>> Yo, what's that honey's bodacious curves looking like?
+> ( 2) Viking
+>>>>> Aye, she be perfect. And her eyes? Just as charming as the sea at dawn.
+> ( 3) Snoop Dogg
+>>>>> Yo, what's the hue of shorty's peepers?
+> ( 4) Viking
+>>>>> "Deep as the northern seas, that shade be. Dark blue it is."
+====================================================================================================
+
+
+======================================== Original Dialg 12025 ========================================
+> ( 0) [[ 0 ]]
+>>>>> I take care of the letters . I may read , sort out and organize incoming mails .
+> ( 1) [[ 1 ]]
+>>>>> So you have to open all the envelopes .
+> ( 2) [[ 0 ]]
+>>>>> Yes , except the personal mail . And I also need to prepare the materials for posting and check the e-mail box regularly .
+> ( 3) [[ 1 ]]
+>>>>> Do you need to file copies of the letters before sending them ?
+> ( 4) [[ 0 ]]
+>>>>> Yes , and I check all the e-mails for Mr . Thomas .
+======================================== Stylized Dialg 12025 ========================================
+> ( 0) Snoop Dogg
+>>>>> I got these letters handled, ya dig? I read 'em, sort 'em, and organize 'em like nobody's business.
+> ( 1) A farmer in Idaho
+>>>>> Well shoot, I reckon y'all gotta go ahead and tear open every derned envelope.
+> ( 2) Snoop Dogg
+>>>>> Fo' shizzle, but skip my personal mail. Gotta get my materials ready fo' postin' and stayin' on top of dat e-mail inbox, ya hear me?
+> ( 3) A farmer in Idaho
+>>>>> Well now, let me ask you this. Do ya need to keep copies of these here letters before ya send 'em off?
+> ( 4) Snoop Dogg
+>>>>> Fo shizzle, I always be checkin' Mr. Thomas' emails, ya dig?
+====================================================================================================
+
+
+======================================== Original Dialg 6136 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Did you read the news that ' China's property prices rose at the fastest pace in 18 months in December , ending the year with rising fears of bubbles in the property market ' ?
+> ( 1) [[ 1 ]]
+>>>>> No . Does the newspaper say what has caused that ?
+> ( 2) [[ 0 ]]
+>>>>> Yes . It says the hike was a result of purchase rush in the fourth quarter on expectations of tightening politics .
+> ( 3) [[ 1 ]]
+>>>>> I think the government should make a serves of moves to cool the market .
+> ( 4) [[ 0 ]]
+>>>>> Right . The climbing property prices has become a headache for Chinese residents .
+======================================== Stylized Dialg 6136 ========================================
+> ( 0) Snoop Dogg
+>>>>> Yo, did you peep the news? China's property game is on the rise, with prices going up at their fastest pace in 18 months in December. But some folks are worried about those property bubbles, fo' real.
+> ( 1) Monk
+>>>>> Nay. Does thine parchment reveal the cause for such occurrence?
+> ( 2) Snoop Dogg
+>>>>> Fo' sho'. That hike's all 'bout them crazed buyers scramblin' for their purchases in the last quarter, thinkin' them politics 'bout to get tough.
+> ( 3) Monk
+>>>>> As a humble monk, I believe it would be wise for the government to take measures to cool the market.
+> ( 4) Snoop Dogg
+>>>>> "Yo, fo' real tho. Them property prices be straight up givin' Chinese residents migraines."
+====================================================================================================
+
+
+======================================== Original Dialg 8138 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Are you going to the cafeteria downstairs ?
+> ( 1) [[ 1 ]]
+>>>>> Yes .
+> ( 2) [[ 0 ]]
+>>>>> Could you please get me a takeaway ? I have some urgent work to finish . So I don ’ t have enough time to go out for lunch .
+> ( 3) [[ 1 ]]
+>>>>> No problem . What should I bring ?
+> ( 4) [[ 0 ]]
+>>>>> I am not picky on food . Just bring me the day menu .
+======================================== Stylized Dialg 8138 ========================================
+> ( 0) Vampire
+>>>>> Are you venturing down to the cafeteria below, mortal?
+> ( 1) Mr. Bean
+>>>>> Mmmhmmmmm.
+> ( 2) Vampire
+>>>>> "Would you mind fetching me a takeaway? I've urgent business to tend to and dining out for lunch just won't do."
+> ( 3) Mr. Bean
+>>>>> Oh, absolutely no problem at all! Now, what on earth do I need to bring with me?
+> ( 4) Vampire
+>>>>> I'm not particular when it comes to sustenance. Simply produce the daily menu for me, if you would.
+====================================================================================================
+
+
+======================================== Original Dialg 9781 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Excuse me , what's the price of a single room ?
+> ( 1) [[ 1 ]]
+>>>>> That's $ 50 for a single night .
+> ( 2) [[ 0 ]]
+>>>>> Are meals included ?
+> ( 3) [[ 1 ]]
+>>>>> Yes , of course . Can I make a reservation for you ?
+> ( 4) [[ 0 ]]
+>>>>> Fine , I want to book one for overnight .
+======================================== Stylized Dialg 9781 ========================================
+> ( 0) Django
+>>>>> Django: Hey, pardner. You mind tellin' me the price of a one room?
+> ( 1) A farmer in Idaho
+>>>>> "Well shoot, that'll be $50 for just one night stayin' here."
+> ( 2) Django
+>>>>> Django: Hey, excuse me. So, uh, are we getting fed or what?
+> ( 3) A farmer in Idaho
+>>>>> Farmhand: Yup, sure thing. Would ya like me to reserve somethin' for ya?
+> ( 4) Django
+>>>>> "Alright, reckon I'll be needin' to reserve one fer the whole night."
+====================================================================================================
+
+
+======================================== Original Dialg 12804 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Which type of telephone bill would you like to pay today ?
+> ( 1) [[ 1 ]]
+>>>>> My home phone , the landline . I don't have a mobile phone , far too complicated for an old lady like me ! Do you need my Bank Book ?
+> ( 2) [[ 0 ]]
+>>>>> I'll need your Bank Card , please . Your Bank Book is required for over the counter services ; with the ATM you just need to have your card .
+> ( 3) [[ 1 ]]
+>>>>> Let's get started . First , select the service you require . That's household bill payment for you . Then we select the type of bill , so that's landline ... here you go . Your bill for this month comes to 87.42 RIB . The money will come out of your account and go straight to the phone company .
+> ( 4) [[ 0 ]]
+>>>>> Well , that is easy ! It sure beats waiting in line for ages waiting to deal with a real person !
+======================================== Stylized Dialg 12804 ========================================
+> ( 0) Vampire
+>>>>> "What manner of phone bill will you be tending to this eve?" the vampire inquired.
+> ( 1) Napoleon Bonaparte
+>>>>> My landline serves me well. The complexities of mobile technology are far beyond my needs. And do you require my bank book?
+> ( 2) Vampire
+>>>>> May I have your bank card, please? Your bank book is necessary for in-person transactions, but for the ATM, only your card is required.
+> ( 3) Napoleon Bonaparte
+>>>>> "En avant, mes amis! First, you must select the service you require. Ah, I see - household bill payment for you. Next, we must choose the type of bill. Hm, landline it is. Here we are. Your bill for this month is 87.42 RIB. Rest assured, the money will be deducted from your account and transferred directly to the phone company."
+> ( 4) Vampire
+>>>>> Well, that's a breeze! Definitely better than queuing for ages to converse with an actual being!
+====================================================================================================
+
+
+======================================== Original Dialg 988 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Can I help you , sir ?
+> ( 1) [[ 1 ]]
+>>>>> You have so many antiques and Chinese paintings here . May I have a look first ?
+> ( 2) [[ 0 ]]
+>>>>> Of course .
+> ( 3) [[ 1 ]]
+>>>>> Are they genuine ?
+> ( 4) [[ 0 ]]
+>>>>> Some are genuine . But all our reproductions are clearly marked and priced .
+======================================== Stylized Dialg 988 ========================================
+> ( 0) Pirate
+>>>>> Arrr, what can I do for ya, matey?
+> ( 1) Django
+>>>>> Django: Damn, you got yourself a hell of a collection of antiques and Chinese art up in here. Mind if I take a gander first?
+> ( 2) Pirate
+>>>>> "Aye, of course!"
+> ( 3) Django
+>>>>> Django: You reckon these are the real McCoy?
+> ( 4) Pirate
+>>>>> "Arrr, some be real treasure, but all our knock-offs be marked and priced fair and square."
+====================================================================================================
+
+
+======================================== Original Dialg 7868 ========================================
+> ( 0) [[ 0 ]]
+>>>>> How can I tell her about this ?
+> ( 1) [[ 1 ]]
+>>>>> Don't worry , you'll find a way .
+> ( 2) [[ 0 ]]
+>>>>> There is no need to be so frustrated .
+> ( 3) [[ 1 ]]
+>>>>> How can you live without job in the future ?
+> ( 4) [[ 0 ]]
+>>>>> Don't worry , you'll find a way .
+======================================== Stylized Dialg 7868 ========================================
+> ( 0) Mr. Bean
+>>>>> Ermm, how can Mr. Bean explain this to her?
+> ( 1) Napoleon Bonaparte
+>>>>> Have no fear, mon ami. You shall discover a solution.
+> ( 2) Mr. Bean
+>>>>> Don't worry, there's no need to get all flustered and upset.
+> ( 3) Napoleon Bonaparte
+>>>>> "How can one expect to survive in the future without gainful employment?"
+> ( 4) Mr. Bean
+>>>>> "Don't fret, my friend. You'll always discover a solution."
+====================================================================================================
+
+
+======================================== Original Dialg 12994 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Could you change these for me , please ?
+> ( 1) [[ 1 ]]
+>>>>> What would you like ?
+> ( 2) [[ 0 ]]
+>>>>> Twenties and some smaller bills , please .
+> ( 3) [[ 1 ]]
+>>>>> Anything else ?
+> ( 4) [[ 0 ]]
+>>>>> Yes . Could you tell many balance ? Here's account number .
+======================================== Stylized Dialg 12994 ========================================
+> ( 0) Django
+>>>>> Django: Yo, mind switching these out for me, partner?
+> ( 1) Vampire
+>>>>> "Tell me mortal, what is it that you desire?"
+> ( 2) Django
+>>>>> Django: Let me get a few twenties and some smaller bills, if you don't mind.
+> ( 3) Vampire
+>>>>> "Is there anything else my dear?" uttered the vampire with a sly grin.
+> ( 4) Django
+>>>>> Django: Yo, what's good? Can you let me know my balance? Drop me the account number.
+====================================================================================================
+
+
+======================================== Original Dialg 8883 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Did you listen to the weather forecast ?
+> ( 1) [[ 1 ]]
+>>>>> No.Why ?
+> ( 2) [[ 0 ]]
+>>>>> There ’ s a typhoon coming .
+> ( 3) [[ 1 ]]
+>>>>> No way !
+> ( 4) [[ 0 ]]
+>>>>> Yep , it should be here by tomorrow night .
+======================================== Stylized Dialg 8883 ========================================
+> ( 0) Monk
+>>>>> Have you tuned in to the forecast of the skies, my friend?
+> ( 1) Napoleon Bonaparte
+>>>>> Napoleon Bonaparte: Non. Pourquoi?
+> ( 2) Monk
+>>>>> Behold, my brethren, a typhoon approaches.
+> ( 3) Napoleon Bonaparte
+>>>>> Non ! (using French for "No")
+> ( 4) Monk
+>>>>> Indeed, it shall arrive in our presence by the night of the morrow.
+====================================================================================================
+
+
+======================================== Original Dialg 6857 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Like a cat on hot bricks , as you might say . I don ’ t believe you are listening at all .
+> ( 1) [[ 1 ]]
+>>>>> Sorry , I just worried about him . You know , he should be here an hour ago .
+> ( 2) [[ 0 ]]
+>>>>> Don ’ t worry him , he has been grown up and I think he can take himself very well .
+> ( 3) [[ 1 ]]
+>>>>> But he still does not come back .
+> ( 4) [[ 0 ]]
+>>>>> Maybe he is on the way home now .
+======================================== Stylized Dialg 6857 ========================================
+> ( 0) Pirate
+>>>>> Like a parrot on a ship's railing, I reckon ye ain't hearing me words. I don't think ye be listenin' at all.
+> ( 1) Mr. Bean
+>>>>> Oh dear, I'm just a tad concerned about him. He ought to have arrived here an hour since!
+> ( 2) Pirate
+>>>>> "Don't ye fret about that one, matie. The lad's been around the block, he can handle his own rough waters."
+> ( 3) Mr. Bean
+>>>>> But he's still not returned, has he?
+> ( 4) Pirate
+>>>>> Me guess is he's headin' back to port by now.
+====================================================================================================
+
+
+======================================== Original Dialg 5537 ========================================
+> ( 0) [[ 0 ]]
+>>>>> The Canada Day is on the 1st of July .
+> ( 1) [[ 1 ]]
+>>>>> What is its national anthem ?
+> ( 2) [[ 0 ]]
+>>>>> The national anthem of Canada is ' O Canada ' .
+> ( 3) [[ 1 ]]
+>>>>> Can you sing the song ?
+> ( 4) [[ 0 ]]
+>>>>> Yes , I could sing it when I was very young .
+======================================== Stylized Dialg 5537 ========================================
+> ( 0) Monk
+>>>>> The day of Canada's celebration falls upon the first of July.
+> ( 1) Snoop Dogg
+>>>>> What's the national anthem, homie?
+> ( 2) Monk
+>>>>> The anthem of our northern neighbors is indeed 'O Canada'.
+> ( 3) Snoop Dogg
+>>>>> Ayo, can you bust out that tuneeee for me?
+> ( 4) Monk
+>>>>> Verily, I was able to sing it in my youth.
+====================================================================================================
+
+
+======================================== Original Dialg 984 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Say , what's you favorite sport ?
+> ( 1) [[ 1 ]]
+>>>>> Mmmm ... , it's hard to say . I like golf a lot-but I guess like skating better .
+> ( 2) [[ 0 ]]
+>>>>> Do you know how to skate , like a skater ?
+> ( 3) [[ 1 ]]
+>>>>> No , I'm strictly a spectator . I just like watching skating . It's so beautiful .
+> ( 4) [[ 0 ]]
+>>>>> Then you must know a lot about skating .
+======================================== Stylized Dialg 984 ========================================
+> ( 0) Viking
+>>>>> Hail, what sport do ye favor most?
+> ( 1) Vampire
+>>>>> "I find it rather challenging to decide, but if I must choose, I'd say I have a soft spot for skating over golf."
+> ( 2) Viking
+>>>>> Hast thou learned to glide upon the ice, like a skater?
+> ( 3) Vampire
+>>>>> No, I prefer to observe. I simply enjoy spectating skating. It's undeniably beautiful.
+> ( 4) Viking
+>>>>> "Ha! Skating? Nay, I know how to sail the high seas, but the frozen waters are not for me."
+====================================================================================================
+
+
+======================================== Original Dialg 987 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Where do these flower vases come from ?
+> ( 1) [[ 1 ]]
+>>>>> They are made a town nearby . The flower vases are made of porcelain and covered with tiny bamboo sticks .
+> ( 2) [[ 0 ]]
+>>>>> Are they breakable ?
+> ( 3) [[ 1 ]]
+>>>>> No . They are not only ornamental , but also useful .
+> ( 4) [[ 0 ]]
+>>>>> No wonder it's so expensive .
+======================================== Stylized Dialg 987 ========================================
+> ( 0) Viking
+>>>>> Whence came these flower vases?
+> ( 1) Vampire
+>>>>> A town has sprung up nearby, my dear. They have porcelain flower vases adorned with tiny bamboo sticks.
+> ( 2) Viking
+>>>>> Do these have the strength to withstand the wrath of Thor?
+> ( 3) Vampire
+>>>>> "No, my dear. These objects are not merely decorative. They serve a practical purpose as well."
+> ( 4) Viking
+>>>>> By Odin's beard! That's why it's fetching such a high sum!
+====================================================================================================
+
+
+======================================== Original Dialg 10688 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Mr . Chandler will be our new partner , so his visit this time will be extremely important for our cooperation in future , because it may decide whether Mr . Chandler sign the trade contract with us or not . Do you have some idea ?
+> ( 1) [[ 1 ]]
+>>>>> I suppose we can bring him to visit our company , as well as our display room . In this way , he can know more about our company and our potential power . In my opinion , visiting the factory will help him learn our manufacturing process very much .
+> ( 2) [[ 0 ]]
+>>>>> En , you are right , and he will trust us and maybe the contract will be signed soon . But remember to keep some skills of our manufacturing secret . On one hand , show his our best side ; on the other hand , do not show too much to protect our own business secrets .
+> ( 3) [[ 1 ]]
+>>>>> Well , I understand .
+> ( 4) [[ 0 ]]
+>>>>> Please make a detailed schedule on the visit this afternoon .
+======================================== Stylized Dialg 10688 ========================================
+> ( 0) Napoleon Bonaparte
+>>>>> "Mes amis, we must be prepared for the arrival of Mr. Chandler, our potential partner in trade. The success of our future cooperation hinges on this meeting. Do any of you have suggestions on how we may impress him and secure his signature on the contract?"
+> ( 1) Cowboy
+>>>>> Well, maybe we oughta take 'im out to see our operation. Show 'im where the magic happens and all that. Give 'im a chance to see what we're really made of. My thinkin' is, if he sees the factory, he'll have a better understandin' of how we do what we do.
+> ( 2) Napoleon Bonaparte
+>>>>> Indeed, you speak the truth. If we can win his trust, the contract will be signed in no time. However, we must be cautious not to reveal all our manufacturing tactics. We shall present our excellence, but withhold our proprietary methods to safeguard our own interests.
+> ( 3) Cowboy
+>>>>> Ah reckon I understand, partner.
+> ( 4) Napoleon Bonaparte
+>>>>> I demand that you draft a comprehensive itinerary for this afternoon's visit.
+====================================================================================================
+
+
+======================================== Original Dialg 5764 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Quite a few people are laid off these days .
+> ( 1) [[ 1 ]]
+>>>>> Yeah . It is not easy for them to find another job .
+> ( 2) [[ 0 ]]
+>>>>> University graduates have difficulty finding a job too . There seems to be more and more competition in the job market
+> ( 3) [[ 1 ]]
+>>>>> It is strange that some people are quitting their jobs in order to find a better one . What do you think ? Do you want to quit your job ?
+> ( 4) [[ 0 ]]
+>>>>> No . Not now . I think I'll try to keep this one .
+======================================== Stylized Dialg 5764 ========================================
+> ( 0) Viking
+>>>>> Many warriors are without work now, it seems.
+> ( 1) Napoleon Bonaparte
+>>>>> Indeed, it is a difficult task for these individuals to secure alternative employment opportunities.
+> ( 2) Viking
+>>>>> Mighty warriors of the academies also struggle in the search for work. The job market seems to be growing more fierce by the day!
+> ( 3) Napoleon Bonaparte
+>>>>> "It is baffling that individuals would resign from their professions in search of something better. What are your thoughts? Would you be inclined to part ways with your current occupation?"
+> ( 4) Viking
+>>>>> Nay, not now. Methinks I'll hold onto this one.
+====================================================================================================
+
+
+======================================== Original Dialg 9852 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Good moming.sir . Here is your breakfast .
+> ( 1) [[ 1 ]]
+>>>>> Thank you.Just put it on the table .
+> ( 2) [[ 0 ]]
+>>>>> Is there anything I can do for you ?
+> ( 3) [[ 1 ]]
+>>>>> En , would you please give me some bread please ? I am hungry now .
+> ( 4) [[ 0 ]]
+>>>>> OK . I will get you some right now .
+======================================== Stylized Dialg 9852 ========================================
+> ( 0) Cowboy
+>>>>> "Mornin' partner. Your breakfast's served hot, just the way ya like it."
+> ( 1) Django
+>>>>> Django: Much obliged. Jus' set it down on the table there.
+> ( 2) Cowboy
+>>>>> "Well howdy there, partner. Can I lend a hand with anything?"
+> ( 3) Django
+>>>>> Django: Hey there partner, mind passing me some of that bread? My belly's rumbling something fierce.
+> ( 4) Cowboy
+>>>>> Alright, I'll rustle up some for ya real quick.
+====================================================================================================
+
+
+======================================== Original Dialg 4638 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Did you punch in ?
+> ( 1) [[ 1 ]]
+>>>>> Yes . By the way , you are having a great make-up today . I like the color of your lipstick . So adorable !
+> ( 2) [[ 0 ]]
+>>>>> Really ? It took me really a while to find the color . I am happy you like it .
+> ( 3) [[ 1 ]]
+>>>>> Well , girls like us are happy to spend our time on those kinds of things . Actually , do we still have a meeting this afternoon ?
+> ( 4) [[ 0 ]]
+>>>>> Sure , when those never ending meetings .
+======================================== Stylized Dialg 4638 ========================================
+> ( 0) Cowboy
+>>>>> Did ya punch in, partner?
+> ( 1) Pirate
+>>>>> "Aye, me hearty. I must say, ye be lookin' mighty fine with that rouge on yer lips! That's a lovely shade ye got there, befitting the beauty ye are!"
+> ( 2) Cowboy
+>>>>> "Well shucks, partner, reckon it took me some time to find that there color. Mighty glad it's pleasin' ya."
+> ( 3) Pirate
+>>>>> "Aye, us lasses be enjoyin' the likes of that. But speaking of meetin's, do we still be havin' one this very day?"
+> ( 4) Cowboy
+>>>>> You betcha, partner. When them meetings just keep draggin' on and on.
+====================================================================================================
+
+
+======================================== Original Dialg 9660 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Excuse me , what's the checking time for flight FA1187 ?
+> ( 1) [[ 1 ]]
+>>>>> Have you paid the airport fee ?
+> ( 2) [[ 0 ]]
+>>>>> Yes , and I have already gone through the safety inspection .
+> ( 3) [[ 1 ]]
+>>>>> In that case , please get your passport and boarding card ready . Just wait in the terminal for twenty more minutes.You will hear the announcement .
+> ( 4) [[ 0 ]]
+>>>>> Thank you .
+======================================== Stylized Dialg 9660 ========================================
+> ( 0) Django
+>>>>> Django: "Hey there, partner. Mind fillin' me in on the checkin' time fer flight FA1187?"
+> ( 1) Napoleon Bonaparte
+>>>>> Have you paid the landing fee, soldier? No aircraft of mine shall touch the soil until all fees are paid in full.
+> ( 2) Django
+>>>>> "You bet I have. Ain't no way I'm gettin' caught with a faulty piece when it's my life on the line."
+> ( 3) Napoleon Bonaparte
+>>>>> In this circumstance, I request that you prepare your passport and boarding pass. Simply remain in the terminal for an additional twenty minutes. You shall be informed with an announcement.
+> ( 4) Django
+>>>>> Django: Much obliged.
+====================================================================================================
+
+
+======================================== Original Dialg 11637 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Hi , boss . You wanted to see me ?
+> ( 1) [[ 1 ]]
+>>>>> Zina . Look , I know when I hired you , I told you I'd pay you a salary . But I just can't .
+> ( 2) [[ 0 ]]
+>>>>> Excuse me ? I hope I didn't just hear what I think I just heard .
+> ( 3) [[ 1 ]]
+>>>>> I know it's awkward , but you're going to be thanking me later . I'm going to make you rich .
+> ( 4) [[ 0 ]]
+>>>>> You're going to make me rich by not paying me ?
+======================================== Stylized Dialg 11637 ========================================
+> ( 0) Vampire
+>>>>> Greetings, my liege. Didst thou summon me?
+> ( 1) Pirate
+>>>>> Listen here, Zina. Ye know when I brought ye aboard, I promised a wage. But things be tight, and I can't make that happen.
+> ( 2) Vampire
+>>>>> Excuse me? Did my ears deceive me with what I just heard? I certainly hope I'm mistaken.
+> ( 3) Pirate
+>>>>> Arr, I know this may seem a bit uncomfortable, but trust me matey, you'll be thanking me before long. I'll be making you a wealthy pirate, mark me words.
+> ( 4) Vampire
+>>>>> (whispers) My dear, you dare suggest to deny me my earnings? You know not the value of crossing a vampire.
+====================================================================================================
+
+
+======================================== Original Dialg 7685 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Hi , Mark , did you catch the game last night ?
+> ( 1) [[ 1 ]]
+>>>>> No , I was out . Was it worth watching ?
+> ( 2) [[ 0 ]]
+>>>>> You didn ’ t hear ? Spain won , two to zero .
+> ( 3) [[ 1 ]]
+>>>>> Oh , really ? So , Spain is through to the next round ?
+> ( 4) [[ 0 ]]
+>>>>> Yeah . The final is next week . You have to watch it .
+======================================== Stylized Dialg 7685 ========================================
+> ( 0) Viking
+>>>>> Hail, Mark! Did ye witness the battle in the arena last eve?
+> ( 1) A farmer in Idaho
+>>>>> Sorry, I was tending to the crops. Did I miss anything good?
+> ( 2) Viking
+>>>>> Didst thou not hear? Spain hath triumphed, two to nil!
+> ( 3) A farmer in Idaho
+>>>>> "Well I'll be darned. Spain made it to the next round, huh?"
+> ( 4) Viking
+>>>>> Aye, the final be comin' up next week. Ye best be watchin' it.
+====================================================================================================
+
+
+======================================== Original Dialg 8216 ========================================
+> ( 0) [[ 0 ]]
+>>>>> What kind of movies do you like , Sue ?
+> ( 1) [[ 1 ]]
+>>>>> I like all kinds of stuff . I admit I love romance .
+> ( 2) [[ 0 ]]
+>>>>> Just like my wife . So , what ’ s your favorite movie ?
+> ( 3) [[ 1 ]]
+>>>>> You mean my favorite movie of all time ? I guess I ’ d have to say pretty woman .
+> ( 4) [[ 0 ]]
+>>>>> Yeah , my wife likes that one , too . Personally , I prefer action movies .
+======================================== Stylized Dialg 8216 ========================================
+> ( 0) Django
+>>>>> Django: So, tell me Sue, what's the genre that tickles your fancy when it comes to movies?
+> ( 1) Napoleon Bonaparte
+>>>>> I am fond of many things, but I must confess that my heart beats for romance.
+> ( 2) Django
+>>>>> "Just like my lady Maryanne. So, what flick tickles your fancy, partner?"
+> ( 3) Napoleon Bonaparte
+>>>>> My favorite film of all time? I suppose I must admit it is "Pretty Woman."
+> ( 4) Django
+>>>>> "Yeah, my woman's a fan of that flick too. But me? I prefer my films with a whole lot more action."
+====================================================================================================
+
+
+======================================== Original Dialg  68 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Hello , is Sue there ?
+> ( 1) [[ 1 ]]
+>>>>> Who ?
+> ( 2) [[ 0 ]]
+>>>>> Sue John .
+> ( 3) [[ 1 ]]
+>>>>> You must have the wrong number .
+> ( 4) [[ 0 ]]
+>>>>> Oh , I'm sorry .
+======================================== Stylized Dialg  68 ========================================
+> ( 0) Viking
+>>>>> Hail, who wishes to speak with Sue?
+> ( 1) Monk
+>>>>> "Pardon me, good sir, but whom do you speak of?"
+> ( 2) Viking
+>>>>> Skol, John!
+> ( 3) Monk
+>>>>> Forgive me, my son, but it appears that you have dialed the wrong number.
+> ( 4) Viking
+>>>>> My apologies, humble one.
+====================================================================================================
+
+
+======================================== Original Dialg 2628 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Hello !
+> ( 1) [[ 1 ]]
+>>>>> Hello ! Could I speak to Sheerly Lim please ?
+> ( 2) [[ 0 ]]
+>>>>> Sure , just a second . Who's calling ?
+> ( 3) [[ 1 ]]
+>>>>> This is Sue from work .
+> ( 4) [[ 0 ]]
+>>>>> Ok , sue , I will just go in get her .
+======================================== Stylized Dialg 2628 ========================================
+> ( 0) Pirate
+>>>>> Ahoy there matey!
+> ( 1) Cowboy
+>>>>> Howdy! Can I have a word with Sheerly Lim, pardner?
+> ( 2) Pirate
+>>>>> "Avast ye! Gimme a tick. Who be askin' for me?"
+> ( 3) Cowboy
+>>>>> Howdy y'all, this here is Sue from the office talkin'.
+> ( 4) Pirate
+>>>>> Arrr, alright Sue, I'll be off t' fetch 'er then.
+====================================================================================================
+
+
+======================================== Original Dialg 7871 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Is that girl your girlfriend ?
+> ( 1) [[ 1 ]]
+>>>>> No , it's not .
+> ( 2) [[ 0 ]]
+>>>>> She doesn't look like our classmate .
+> ( 3) [[ 1 ]]
+>>>>> Don't mistake her as somebody . She ' s my older sister .
+> ( 4) [[ 0 ]]
+>>>>> Really , she's so pretty .
+======================================== Stylized Dialg 7871 ========================================
+> ( 0) Vampire
+>>>>> Is that mortal creature yours, bound to you as a mate for eternity?
+> ( 1) Viking
+>>>>> Nay, 'tis not so.
+> ( 2) Vampire
+>>>>> She doth not bear the resemblance of our fellow pupil.
+> ( 3) Viking
+>>>>> Do not take her for granted. She is my elder sister, and I will protect her with my life.
+> ( 4) Vampire
+>>>>> "Truly enchanting, this damsel. Her beauty mesmerizes me."
+====================================================================================================
+
+
+======================================== Original Dialg 454 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Cathy , I'd like to introduce the new microwave stove of mine to you , because it is easy to use .
+> ( 1) [[ 1 ]]
+>>>>> OK , it so happened I want to buy one .
+> ( 2) [[ 0 ]]
+>>>>> This microwave stove has many functions . Let me show you . For example , if you want to cook meat , you just need to put meat in it , and press the button with a picture of meat , that ’ s OK . After several minutes , you can eat the delicious meat .
+> ( 3) [[ 1 ]]
+>>>>> I think it ’ s good , and it suits me , because I'm not good at cooking . Is it expensive ?
+> ( 4) [[ 0 ]]
+>>>>> Oh , it is not so expensive . It only costs me 280 dollars .
+======================================== Stylized Dialg 454 ========================================
+> ( 0) Django
+>>>>> Django: Cathy, check this out - got me a new microwave stove that's a cinch to use. Wanna take a peek?
+> ( 1) Mr. Bean
+>>>>> Well, um, I suppose I'm in the market for one, aren't I?
+> ( 2) Django
+>>>>> Well now, this here microwave stove is a real handy contraption. See, if you're wantin' to cook up some meat, alls ya gotta do is toss it in and hit that button with the picture of meat on it. In no time at all, you'll have yourself the juiciest, most delectable meat you ever did taste.
+> ( 3) Mr. Bean
+>>>>> "I reckon it's a right fit for me, since I'm not one for the kitchen. But, doesn't it come with a hefty price tag?"
+> ( 4) Django
+>>>>> Well, ain't that a relief. 280 bucks for this ain't too steep.
+====================================================================================================
+
+
+======================================== Original Dialg 4026 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Well , you seem to enjoy speaking English .
+> ( 1) [[ 1 ]]
+>>>>> You can't help learning when you're using it all day . You'll see . A few weeks ' study in the school will have a similar effect on you .
+> ( 2) [[ 0 ]]
+>>>>> I hope so.You see , at the moment I find it difficult to get used to the teacher's speed and accent . I'm awfully worried , I can't reply as quickly as she seems to expect .
+> ( 3) [[ 1 ]]
+>>>>> Oh , she likes keeping us on our toes by getting us use English throughout the class . She doesn't mind your making mistakes , though .
+> ( 4) [[ 0 ]]
+>>>>> You know , speaking in class is a very good chance to put your English to practical use .
+======================================== Stylized Dialg 4026 ========================================
+> ( 0) A farmer in Idaho
+>>>>> "Well, I reckon you're mighty fond of speaking that fancy English language."
+> ( 1) Django
+>>>>> Django: Don't you worry none, partner. The more ya use it, the more ya learn. Spend a couple of weeks in school and you'll see how it'll help ya just the same.
+> ( 2) A farmer in Idaho
+>>>>> Well shoot, I reckon I do hope so. See, right now I'm havin' a tough time catchin' up with the teacher's quick talkin' and funny accent. I'm real worried, 'cause I just can't seem to answer her questions as fast as she wants me to.
+> ( 3) Django
+>>>>> Django: Dat teacher o' mine, always keepin' us on our toes by makin' us speak in English durin' class. But don't worry 'bout makin' mistakes, she don't mind none of it.
+> ( 4) A farmer in Idaho
+>>>>> Well now, I reckon talking up in class is a mighty fine way t'use your English in the real world.
+====================================================================================================
+
+
+======================================== Original Dialg 4569 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Hey , that ’ s a very nice hairdo you ’ re wearing !
+> ( 1) [[ 1 ]]
+>>>>> Oh you ’ re exaggerating . I ’ m never really good at making hairdo .
+> ( 2) [[ 0 ]]
+>>>>> You did it yourself ? Wow , you are good !
+> ( 3) [[ 1 ]]
+>>>>> Thanks for saying so , but my husband thinks otherwise .
+> ( 4) [[ 0 ]]
+>>>>> He ’ s just got no idea of how good you are .
+======================================== Stylized Dialg 4569 ========================================
+> ( 0) Mr. Bean
+>>>>> "Mm, lovely bit of hair action you've got going on up there, brill!"
+> ( 1) Vampire
+>>>>> "Pshh, you flatter me too much. I've never quite mastered the art of styling hair."
+> ( 2) Mr. Bean
+>>>>> Mr. Bean: Blimey, did you do that all on your own? Jolly good, you are!
+> ( 3) Vampire
+>>>>> Thank you for your compliment, but my beloved disagrees with you.
+> ( 4) Mr. Bean
+>>>>> "He hasn't got the faintest notion of your brilliance!"
+====================================================================================================
+
+
+======================================== Original Dialg 1815 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Excuse me . I lost my way . Could you tell me where the scholar cinema is , please ?
+> ( 1) [[ 1 ]]
+>>>>> The Scholar ? Let me see . Oh ... yes , Of course I know . It ’ s in the Lincoln Square .
+> ( 2) [[ 0 ]]
+>>>>> Is that near here ?
+> ( 3) [[ 1 ]]
+>>>>> Oh , yes . It ’ s just a few minutes block . Turn left at the traffic light , and you ’ ll see it .
+> ( 4) [[ 0 ]]
+>>>>> Thank you very much .
+======================================== Stylized Dialg 1815 ========================================
+> ( 0) Napoleon Bonaparte
+>>>>> Pardon me, I seem to have lost my bearings. Might you be able to direct me to the location of the scholar cinema?
+> ( 1) Django
+>>>>> Y'all talkin' bout The Scholar? Lemme take a look. Oh yeah, I know exactly where it's at. It's in Lincoln Square.
+> ( 2) Napoleon Bonaparte
+>>>>> Is that location in close proximity to us?
+> ( 3) Django
+>>>>> "Yessir, just a wee bit o' walkin' and a left turn at the light. 'Til ya lay eyes on it, amigo."
+> ( 4) Napoleon Bonaparte
+>>>>> Merci beaucoup!
+====================================================================================================
+
+
+======================================== Original Dialg 10331 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Well , Randy , I'd say you've got a bad case of the flu . The main thing to do is get plenty of rest and drink lots of liquids . I'll prescribe something for that throat .
+> ( 1) [[ 1 ]]
+>>>>> Thanks , doctor . Is there anything I can take for this headache ?
+> ( 2) [[ 0 ]]
+>>>>> Some aspirin or Panadol should help . You can pick some up at the pharmacy when you go to fill your prescription .
+> ( 3) [[ 1 ]]
+>>>>> Okay .
+> ( 4) [[ 0 ]]
+>>>>> Goodbye , Randy . Take care .
+======================================== Stylized Dialg 10331 ========================================
+> ( 0) Vampire
+>>>>> My dear Randy, it seems as though the flu has taken hold of you. You must rest and consume ample fluids. Allow me to prescribe a remedy for that scratchy throat of yours.
+> ( 1) A farmer in Idaho
+>>>>> Thanks, Doc. Do you have somethin' I can take for this darn headache?
+> ( 2) Vampire
+>>>>> "Perhaps some painkillers, such as aspirin or Panadol, would aid in your discomfort. The apothecary could provide what you require when you collect your prescription."
+> ( 3) A farmer in Idaho
+>>>>> "We'll get this crop planted soon enough, just mark my words."
+> ( 4) Vampire
+>>>>> "Farewell, Randy. I suggest locking your windows before nightfall."
+====================================================================================================
+
+
+======================================== Original Dialg 10735 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Dodge Automobiles , may I help you ?
+> ( 1) [[ 1 ]]
+>>>>> Is this Susan ?
+> ( 2) [[ 0 ]]
+>>>>> No , I'm the operator .
+> ( 3) [[ 1 ]]
+>>>>> Oh well , do you know if the Susan Li is available ?
+> ( 4) [[ 0 ]]
+>>>>> One moment and I'll check .
+======================================== Stylized Dialg 10735 ========================================
+> ( 0) Monk
+>>>>> Greetings, Dodge Automobiles. How may I be of service to you?
+> ( 1) Viking
+>>>>> Odin's beard! Art thou Susan?
+> ( 2) Monk
+>>>>> I humbly apologize, but I am the one who oversees this task.
+> ( 3) Viking
+>>>>> Well met, do you happen to know if the great warrior Susan Li is available for battle?
+> ( 4) Monk
+>>>>> Let me take a brief pause and examine the matter.
+====================================================================================================
+
+
+======================================== Original Dialg 12007 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Please send this memo out to all the managerial staff ... there will be training for all the department heads next week . Attendance for managerial staff is mandatory , except for the financial department . Financial officers may participate if their schedules allow .
+> ( 1) [[ 1 ]]
+>>>>> You would like me to send this to all managerial staff ? I'm sorry , sir , could you please clarify ? Who all is included in managerial staff ?
+> ( 2) [[ 0 ]]
+>>>>> Managerial staff is anyone who is in a position of authority or responsibility , or who has anyone working under them . It includes all supervisors and department heads .
+> ( 3) [[ 1 ]]
+>>>>> What about the senior account managers ? Do they count ?
+> ( 4) [[ 0 ]]
+>>>>> No , they are in a position of leadership and have more experience than normal account managers , but they do not directly supervise others . They are not members of the managerial staff and will not be included in our training .
+======================================== Stylized Dialg 12007 ========================================
+> ( 0) Pirate
+>>>>> "Ahoy mates! Spread the word to all the managers! We be havin' trainin' for the heads of every department next week. And don't ye forget - all managers must attend! But those scurvy financial officers can join in if they have the time."
+> ( 1) Vampire
+>>>>> "Forgive my confusion, but could you be more specific on who you consider to be part of the managerial staff you want me to forward this to?" The vampire's eyes glinted in the dim light as they awaited a response.
+> ( 2) Pirate
+>>>>> Aye, the ones callin' the shots and bossin' 'round their minions be the managerial staff. The likes of supervisors and department heads be included, me hearties.
+> ( 3) Vampire
+>>>>> And what of the senior account managers? Do they hold any weight in your plan?
+> ( 4) Pirate
+>>>>> "Nay, matey. Them scallywags may be in charge, but they ain't exactly part of the boss crew. They don't tell others what to do and won't be joinin' our trainin'."
+====================================================================================================
+
+
+======================================== Original Dialg 9732 ========================================
+> ( 0) [[ 0 ]]
+>>>>> I want to join in the bus tour .
+> ( 1) [[ 1 ]]
+>>>>> Yes , sir .
+> ( 2) [[ 0 ]]
+>>>>> Will the bus pick up the tourists from hotels ?
+> ( 3) [[ 1 ]]
+>>>>> Of course . You don't have to come here and we will drop you off at your hotel .
+> ( 4) [[ 0 ]]
+>>>>> Woo , that's quite convenient .
+======================================== Stylized Dialg 9732 ========================================
+> ( 0) Pirate
+>>>>> Arrr, count me in for that bus tour, matey.
+> ( 1) Monk
+>>>>> Indeed, my good sir.
+> ( 2) Pirate
+>>>>> Ahoy there, matey! Do ye know if the bus will be pickin' up the land lubbers from their lodgings?
+> ( 3) Monk
+>>>>> "Ah, worry not. We shall gladly transport thee back to thy lodgings, without any trouble."
+> ( 4) Pirate
+>>>>> Yarr, that be a handy piece o' information, matey.
+====================================================================================================
+
+
+======================================== Original Dialg 4262 ========================================
+> ( 0) [[ 0 ]]
+>>>>> Hey , Cindy , I'm so sorry about yesterday . I shouldn't have yelled at you in front of everyone .
+> ( 1) [[ 1 ]]
+>>>>> Don't worry about it .
+> ( 2) [[ 0 ]]
+>>>>> I don't know what happened to me . I just lost it .
+> ( 3) [[ 1 ]]
+>>>>> I think you just need to get more sleep .
+> ( 4) [[ 0 ]]
+>>>>> Yeah , you're right . Good night .
+======================================== Stylized Dialg 4262 ========================================
+> ( 0) Pirate
+>>>>> Ahoy, me heartie Cindy! Me apologies fer me outburst yesterday in front of the crew. 'Twas not right of me to yell like that.
+> ( 1) Napoleon Bonaparte
+>>>>> Do not concern yourself with it.
+> ( 2) Pirate
+>>>>> Arrr, I be clueless as to what transpired. Me mind just went overboard!
+> ( 3) Napoleon Bonaparte
+>>>>> You must ensure that you are receiving an adequate amount of rest.
+> ( 4) Pirate
+>>>>> "Aye, ye be speakin' true. Fair winds and bonny dreams to ye, matey."
+====================================================================================================
+
