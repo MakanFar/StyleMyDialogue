@@ -1,4 +1,4 @@
-api_key: "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"
+api_key: "Enter your api key"
 characters: "data/characters.csv"
 dialogues: "data/dialogues_text.txt"
 images: "data/images.csv"
