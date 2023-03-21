@@ -1,17 +1,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/StyleMyDialouge.jpg" alt="model">
-  </a>
-
-  <h3 align="center">Style My Dialougue</h3>
+ <h3 align="center">Style My Dialougue</h3>
 
   <p align="center">
     Style a given dialogue based on the characteristics of a chosen character's protrait, sketch or image. 
     <br />
-    <a href="https://stylemydialouge.streamlit.app"><strong>View Demo»</strong></a>
+    <a href="https://stylemydialouge.streamlit.app"><strong>«View Demo»</strong></a>
   </p>
+
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/StyleMyDialouge.jpg" alt="model">
+  </a>
+
 </div>
 
 
@@ -68,27 +69,21 @@ This a tutoiral on how to run the project localy to duplicate the results or eve
 
 That's it! now the new stylized outputs with the original generic prompts are in the results.csv
 
-Currently dailogues are randomly genrated using a the DailyDailouges dataset, but you can change the dailouges, by changing it from the config file.
+Currently dailogues are randomly genrated using a dataset of daily dailouges. But you can add your own dailouges, by changing it from the config file.
 
 Enter your own dailogues in `config.yml`
 ```yml
  dialogues: "dailogue list or dataset"
 ```
 
-Characters, emotions, and images can also be changed by their csv files in the data folder, or changing the variable paths from the config file.
+Characters, emotions, and images can also be updated by modifying their respected CSV files in `data\` or changing the variable paths from the `config.yml`.
 
-Enter your own images in `config.yml`
 ```yml
  images: "image list or dataset"
 ```
-
-Enter your own characters in `config.yml`
 ```yml
  characters: "character list or dataset"
 ```
-
-Enter your own emotions in `config.yml`
 ```yml
  emotions: "emotion list or dataset"
 ```
-
