@@ -31,8 +31,8 @@ class StyleMyDialogue:
             images.append(preprocess(image))
 
         image_input = torch.tensor(np.stack(images)).to(device)
-        char_tokens = clip.tokenize(["This is a" + ch for ch in self.characters]).to(device)
-        emotion_tokens = clip.tokenize(["This character is" + em for em in self.emotions]).to(device)
+        char_tokens = clip.tokenize(["This is an image of a " + ch for ch in self.characters]).to(device)
+        emotion_tokens = clip.tokenize(["An image of a character that is emotionally " + em for em in self.emotions]).to(device)
 
         with torch.no_grad():
             image_features = model.encode_image(image_input).float()
